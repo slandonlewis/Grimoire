@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXfZa0MeuxCulsGHlbp8TBRz3nT2VwKDfMWJk/oWngiqYoquF6XkcU1eLCRg2XH9XMUWFa7f93wgtQaSrPAcmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terro\\workspace\\translate-csharp-js\\grimoire\\csharp\\Grimoire\\Grimoire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

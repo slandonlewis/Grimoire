@@ -1,0 +1,16 @@
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.exe
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.deps.json
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.runtimeconfig.json
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.runtimeconfig.dev.json
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.dll
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\bin\Debug\net5.0\Grimoire.pdb
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.csproj.AssemblyReference.cache
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.AssemblyInfoInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.AssemblyInfo.cs
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.csproj.CoreCompileInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.dll
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\refint\Grimoire.dll
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.pdb
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\Grimoire.genruntimeconfig.cache
+C:\Users\terro\workspace\translate-csharp-js\grimoire\csharp\Grimoire\obj\Debug\net5.0\ref\Grimoire.dll
